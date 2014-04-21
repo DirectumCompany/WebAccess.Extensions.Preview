@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAccess.Extensions.Preview.OfficeOnline", "WebAccess.Preview.OfficeOnline\WebAccess.Extensions.Preview.OfficeOnline.csproj", "{8D080B72-4F47-4646-9A31-72224D08D18E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAccess.Extensions.Preview.OWAS", "WebAccess.Preview.OWAS\WebAccess.Extensions.Preview.OWAS.csproj", "{C0E08412-7D09-4A9A-B865-50C358C3FF2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D080B72-4F47-4646-9A31-72224D08D18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D080B72-4F47-4646-9A31-72224D08D18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D080B72-4F47-4646-9A31-72224D08D18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D080B72-4F47-4646-9A31-72224D08D18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E08412-7D09-4A9A-B865-50C358C3FF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E08412-7D09-4A9A-B865-50C358C3FF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E08412-7D09-4A9A-B865-50C358C3FF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E08412-7D09-4A9A-B865-50C358C3FF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

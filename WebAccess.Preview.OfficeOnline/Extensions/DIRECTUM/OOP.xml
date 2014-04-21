@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Extension name="OOP" title="OOP" icon="/App_Sprites/SidebarAndExtensions/owas_icon.png" >
+  <Authorization/>
+  <AvailableObjects/>  
+  <Cards>
+    <Card type="EDocument" jsfile="/js/WebAccess.Preview.OfficeOnline.js"/>
+  </Cards>
+</Extension>

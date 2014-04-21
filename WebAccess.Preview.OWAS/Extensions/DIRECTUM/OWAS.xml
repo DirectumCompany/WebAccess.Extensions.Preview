@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Extension name="OWAS" title="OWAS" icon="/App_Sprites/SidebarAndExtensions/owas_icon.png" >
+  <Authorization/>
+  <AvailableObjects/>  
+  <Cards>
+    <Card type="EDocument" jsfile="/js/WebAccess.Preview.OWAS.js"/>
+  </Cards>
+</Extension>
