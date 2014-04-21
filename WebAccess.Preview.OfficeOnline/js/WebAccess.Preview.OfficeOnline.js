@@ -1,8 +1,5 @@
 ﻿(function () {
 
-  //Ключ приложения Dropbox
-  var owasURL = 'https://owaext.directum.ru/';
-
   // Нэймспейс клиентской логики расширения
   var OWAS = window.OWAS = {};
 

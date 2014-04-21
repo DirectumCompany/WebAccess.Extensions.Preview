@@ -1,6 +1,6 @@
 ﻿(function () {
 
-  //Ключ приложения Dropbox
+  //Адрес развертывания OWAS
   var owasURL = 'https://owaexternal.company.ru/';
 
   // Нэймспейс клиентской логики расширения
